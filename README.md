@@ -348,7 +348,7 @@ If you must use an ID selector in the first place (and you should really try not
 
 ## CSS-in-JS
 
-We are experimenting with moving away from SCSS and towards CSS-in-JS.
+We are experimenting with moving away from SCSS and towards CSS-in-JS but have not settled on a standard solution yet. In the meantime, see our notes from our experiments in the [ACB Handbook Wiki](https://github.com/acolorbright/handbook/wiki/Styles#css-in-js).
 
 ### More to come...
 
