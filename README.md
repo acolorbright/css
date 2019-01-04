@@ -147,7 +147,7 @@ Related reading:
 
 We recommend using namespaces with ITCSS and BEM, so that objects have a `o-` prefix, components have a `c-` prefix, and utils have a `u-` prefix.
 
-  * CSS Trick's [BEM 101](https://css-tricks.com/bem-101/)
+  * CSS Tricks' [BEM 101](https://css-tricks.com/bem-101/)
   * Harry Roberts' [introduction to BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
   * Harry Roberts' [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 
